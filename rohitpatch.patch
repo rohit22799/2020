@@ -1,6 +1,18 @@
 diff --git a/list.py b/list.py
-index e69de29..11b15b1 100644
+index 11b15b1..cf3725b 100644
 --- a/list.py
 +++ b/list.py
-@@ -0,0 +1 @@
-+print("hello")
+@@ -1 +1,2 @@
+ print("hello")
++print("nothing")
+diff --git a/rohitpatch.patch b/rohitpatch.patch
+index 54edf0d..e69de29 100644
+--- a/rohitpatch.patch
++++ b/rohitpatch.patch
+@@ -1,6 +0,0 @@
+-diff --git a/list.py b/list.py
+-index e69de29..11b15b1 100644
+---- a/list.py
+-+++ b/list.py
+-@@ -0,0 +1 @@
+-+print("hello")
